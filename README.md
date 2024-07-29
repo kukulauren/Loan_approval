@@ -25,3 +25,8 @@ The Logistic Regression model achieved an accuracy score of approximately 90.5%.
 
 Conclusion
 The model demonstrates a high accuracy in predicting loan approval status. Further improvements could include tuning hyperparameters, trying different algorithms, or addressing class imbalance if necessary.
+## Dependencies
+pandas
+matplotlib
+seaborn
+scikit-learn
